@@ -5,13 +5,13 @@ It's an app skeleton for SiteApps.
 
 Examples
 -------------------------
-app.js
+### app.js
 
-## Description
+### Description
 
 This app create a simple facebook like button.
 
-## Params
+### Params
 * url ([%url%])
 Target url for facebook like.
 
