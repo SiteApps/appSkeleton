@@ -7,10 +7,11 @@ Examples
 -------------------------
 app.js
 
-Description
+## Description
+
 This app create a simple facebook like button.
 
-Params
+## Params
 * url ([%url%])
 Target url for facebook like.
 
