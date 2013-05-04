@@ -5,7 +5,7 @@ jQuery(document).ready(function () {
     $.getScript("URLSCRIPT"),
     $.getScript("URLSCRIPT"),
     $.Deferred( function(deferred){
-      $(defered.resolve));
+      $(deferred.resolve);
     })
   ).done(function(){
     //JS Code that depends
